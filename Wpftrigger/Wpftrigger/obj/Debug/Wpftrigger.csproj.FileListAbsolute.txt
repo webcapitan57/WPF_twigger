@@ -1,0 +1,15 @@
+D:\csharp\testproject\WPF_twigger\Wpftrigger\Wpftrigger\bin\Debug\Wpftrigger.exe.config
+D:\csharp\testproject\WPF_twigger\Wpftrigger\Wpftrigger\bin\Debug\Wpftrigger.exe
+D:\csharp\testproject\WPF_twigger\Wpftrigger\Wpftrigger\bin\Debug\Wpftrigger.pdb
+D:\csharp\testproject\WPF_twigger\Wpftrigger\Wpftrigger\obj\Debug\Wpftrigger.csproj.AssemblyReference.cache
+D:\csharp\testproject\WPF_twigger\Wpftrigger\Wpftrigger\obj\Debug\MainWindow.g.cs
+D:\csharp\testproject\WPF_twigger\Wpftrigger\Wpftrigger\obj\Debug\App.g.cs
+D:\csharp\testproject\WPF_twigger\Wpftrigger\Wpftrigger\obj\Debug\Wpftrigger_MarkupCompile.cache
+D:\csharp\testproject\WPF_twigger\Wpftrigger\Wpftrigger\obj\Debug\Wpftrigger_MarkupCompile.lref
+D:\csharp\testproject\WPF_twigger\Wpftrigger\Wpftrigger\obj\Debug\MainWindow.baml
+D:\csharp\testproject\WPF_twigger\Wpftrigger\Wpftrigger\obj\Debug\Wpftrigger.g.resources
+D:\csharp\testproject\WPF_twigger\Wpftrigger\Wpftrigger\obj\Debug\Wpftrigger.Properties.Resources.resources
+D:\csharp\testproject\WPF_twigger\Wpftrigger\Wpftrigger\obj\Debug\Wpftrigger.csproj.GenerateResource.cache
+D:\csharp\testproject\WPF_twigger\Wpftrigger\Wpftrigger\obj\Debug\Wpftrigger.csproj.CoreCompileInputs.cache
+D:\csharp\testproject\WPF_twigger\Wpftrigger\Wpftrigger\obj\Debug\Wpftrigger.exe
+D:\csharp\testproject\WPF_twigger\Wpftrigger\Wpftrigger\obj\Debug\Wpftrigger.pdb
